@@ -24,3 +24,5 @@ Opcode specifies the instruction operations:
 19: JNE: jump to immediate[15:0] if R[src0] != R[src1]
 20: JIN: indirect jump to address R[src0]
 24: HLT: halt execution
+
+*Part of Advanced-Computer-Architecture-Lab in TAU. Assignment instructions were copied - All rights reserved to Tel Aviv University.
